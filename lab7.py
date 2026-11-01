@@ -1,4 +1,4 @@
-#code smell
+#code smell:
 #Message Chain o código precisa navegar por vários objetos em sequência
 #Violação da Lei de Demeter um objeto conhece detalhes internos demais de outros objetos
 #Acoplamento excessivo se mudar alguma classe no meio da cadeia, esse código pode quebrar

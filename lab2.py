@@ -1,4 +1,4 @@
-#Code smell
+#Code smell:
 # Long Parameter List o construtor de Funcionario recebe parâmetros demais.
 #Data Clumps nos dados de endereço e telefone
 #código

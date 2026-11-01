@@ -1,4 +1,4 @@
-# code smell
+# code smell:
 # Long Parameter List
 # Data Clumps
 # Magic Number no 50 do café da manhã

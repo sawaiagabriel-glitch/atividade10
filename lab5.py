@@ -1,4 +1,4 @@
-# code smell
+# code smell:
 #Large Class a classe Produto não cuida só dos dados do produto, ela também mexe com banco de dados e exportação
 #Inappropriate Intimacy Produto conhece detalhes de SQL e XML
 #Magic Number o valor 1.15 aparece diretamente no cálculo de preço

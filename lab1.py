@@ -1,4 +1,4 @@
-#Os principais code smells presentes são
+#Os principais code smells presentes são:
 #Long Method um único método faz cálculo, desconto, pagamento e relatório
 #Large Class GerenciadorDeVendas concentra responsabilidades diferentes
 #Magic Number o valor 0.90 está fixo diretamente no código

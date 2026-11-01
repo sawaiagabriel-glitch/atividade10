@@ -1,4 +1,4 @@
-# code smell
+# code smell:
 #Long Conditional
 #Magic Numbers (2.0, 3.5, 10.0, 8.0, 50.0, 1.0)
 #cadeia de if-elif, porque o comportamento muda conforme o tipo de transporte

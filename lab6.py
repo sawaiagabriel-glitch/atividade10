@@ -1,4 +1,4 @@
-#code smell
+#code smell:
 #Duplicated Code os métodos de crédito e débito repetem quase a mesma lógica
 #Magic Numbers 0.05 e 0.02 aparecem diretamente no cálculo
 #Long Method  cada método repete etapas de cálculo e impressão que poderiam ser unificadas
